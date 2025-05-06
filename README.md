@@ -15,7 +15,7 @@ O objetivo é **ajudar iniciantes** ou quem está aprendendo uma nova linguagem 
 ---
 
 ## 📂 Estrutura do Repositório
-<pre> none / 
+<pre> crud / 
     ├── node-crud/ 
     ├── python-crud/ 
     ├── go-crud/ 
