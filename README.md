@@ -15,11 +15,7 @@ O objetivo é **ajudar iniciantes** ou quem está aprendendo uma nova linguagem 
 ---
 
 ## 📂 Estrutura do Repositório
-/
-├── node-crud/
-├── python-crud/
-├── go-crud/
-└── ...
+<pre> ```none / ├── node-crud/ ├── python-crud/ ├── go-crud/ └── ... ``` </pre>
 
 Cada pasta contém:
 - Código-fonte da API
